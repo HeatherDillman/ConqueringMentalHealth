@@ -1,0 +1,13 @@
+/* Applies to the entire body of the HTML document (except where overridden by more specific
+selectors). */
+body {
+    margin: 0px;
+    background-color: rgb(159, 158, 224);
+    font-family: georgia;
+    color: white;
+    font-size: 18px;
+  }
+
+  div {
+    text-align: center;
+  }
